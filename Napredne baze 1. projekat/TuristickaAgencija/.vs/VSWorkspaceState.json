@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Neo4JDataProvider",
+    "\\Neo4JDataProvider\\DomainModel",
+    "\\TuristickaAgencija",
+    "\\TuristickaAgencija\\Forme"
+  ],
+  "SelectedNode": "\\TuristickaAgencija\\Forme\\DestinacijaPrikaz.cs",
+  "PreviewInSolutionExplorer": false
+}
